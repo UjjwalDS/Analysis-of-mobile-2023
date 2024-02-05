@@ -77,6 +77,5 @@ Hello! I'm Ujjwal Malhotra, a detail-oriented and enthusiastic Data Analyst with
 - [LinkedIn](https://www.linkedin.com/in/proujjwal8840)
 - [GitHub](https://lnkd.in/dkUWtaJf)
 - Email: upm9450@gmail.com
-- Phone: +918840786645
 
 Feel free to customize this template based on your preferences and add any additional sections you'd like to include.
